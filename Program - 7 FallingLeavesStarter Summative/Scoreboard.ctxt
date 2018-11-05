@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\ \r\n\ when\ a\ scorboard\ is\ added\ it\ sets\ points\ to\ zero\r\n\ makes\ a\ greenfoot\ image\r\n\ and\ sets\ the\ image\ to\ white\ and\ sets\ the\ text\ to\ "score"\ and\ the\ value\ of\ points\r\n\ then\ it\ displays\ the\ image\r\n\ \r\n\ @param\ there\ is\ no\ pramiters\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ runs\ evry\ cycle\ and\ if\ the\ points\ is\ equal\ to\ ten\ it\ palys\ a\ sound\ and\ stops\ the\ program\r\n\ \r\n\ @param\ there\ is\ no\ pramiters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ addToScore()
+comment3.text=\ \r\n\ when\ addtoscore\ is\ called\ it\ adds\ one\ to\ points,\r\n\ makes\ a\ greenfoot\ image\r\n\ and\ sets\ the\ image\ to\ white\ and\ sets\ the\ text\ to\ "score"\ and\ the\ value\ of\ points\r\n\ then\ it\ displays\ the\ image\r\n\ \r\n\ @param\ there\ is\ no\ pramiters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=4

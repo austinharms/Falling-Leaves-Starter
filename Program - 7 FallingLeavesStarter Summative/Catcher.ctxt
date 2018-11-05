@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ act()
-numComments=1
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ moves\ left\ and\ right\ based\ on\ the\ key\ presses\ and\ if\ it\ is\ toutching\ a\ leaf\ \r\n\ \r\n\ \r\n\ @param\ there\ is\ no\ pramiters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=2

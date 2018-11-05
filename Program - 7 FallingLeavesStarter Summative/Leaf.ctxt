@@ -1,6 +1,8 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Leaf()
+comment0.target=Leaf
 comment1.params=
-comment1.target=void\ act()
-numComments=2
+comment1.target=Leaf()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\ every\ act\ cycle\ it\ checks\ if\ is\ at\ the\ bottom\ of\ the\ world\ and\ if\ it\ is\ it\ \r\n\ removes\ it's\ self\ also\ it\ moves\ side\ to\ side\ randomly\ and\ move\ down\ the\ speed\ value\r\n\ \r\n\ @param\ there\ is\ no\ pramiters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=3
